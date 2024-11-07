@@ -1,0 +1,19 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore git directory
+.git/
+
+# Ignore PDF files
+*.pdf
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook temporary files
+*.ipynb~
+
+# Ignore other operating system-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.1
+matplotlib==3.6.2
+seaborn==0.12.2
+jupyter==1.0.0
+tensorflow==2.11.0       # For training custom sentiment model (LSTM)
+transformers==4.24.0     # For using DistilBERT in NLP
+torch==1.13.1            # Required by the transformers library
+nltk==3.7                # For VADER sentiment analysis
+wordcloud==1.8.1         # For generating word clouds of review text
